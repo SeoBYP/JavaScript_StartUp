@@ -52,9 +52,9 @@ const profile = {
     }
 }
 
-// profile.greet();
-// profile.greet2();
-// profile.calcAge();
+profile.greet();
+profile.greet2();
+profile.calcAge();
 
 // const anotherProfile = {
 //     firstName: 'Sara',
